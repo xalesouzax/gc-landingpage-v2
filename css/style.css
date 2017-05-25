@@ -1,0 +1,94 @@
+* {
+
+	box-sizing: border-box;
+
+}
+
+body {
+
+	-webkit-font-smoothing: antialiased;
+	color: #4d4d4d;
+
+}
+
+@font-face {
+
+	font-family: sfmonoregular;
+	src: url(../font/SFMono-Regular.otf);
+
+}
+
+h1, p {
+
+	font-family: sfmonoregular;
+	
+}
+
+/*.logo {
+
+	display: block;
+
+	height: 90px;
+	width: 90px;
+
+	border: 22px;
+
+	border-style: solid;
+	border-color: white;
+	border-radius: 50%;
+
+	margin-left: 60px;
+
+}*/
+
+.intro-logo {
+
+	width: 90px;
+	margin-top: 60px;
+	margin-left: 60px;
+
+}
+
+.intro-title {
+
+	color: white;
+	
+	font-size: 55px;
+	font-weight: normal;
+	line-height: 80px;
+
+	margin-left: 60px;
+	margin-right: 60px;
+
+}
+
+.intro-title-highlight {
+
+	font-weight: bold;
+
+} 
+
+.intro-cta {
+
+	color: white;
+	text-decoration: underline;
+
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 80px;
+
+	margin-top: -20px;
+	margin-left: 60px;
+	padding-bottom: 50px;
+
+}
+
+.intro-bg {
+
+	background: #43cea2; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(#43cea2 top, #185a9d); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #43cea2, #185a9d); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #43cea2, #185a9d); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #43cea2, #185a9d); /* Standard syntax (must be last) */
+
+}
