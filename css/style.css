@@ -102,6 +102,67 @@ h1, p {
 
 }
 
+.feature1 {
+
+	margin-top: -142px;
+
+}
+
+.flexbox {
+
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+
+}
+
+.feature1-title {
+
+	font-size: 60px;
+	width: 480px;
+
+}
+
+.feature1-text { 
+
+	font-size: 30px;
+	line-height: 45px;
+	width: 480px;
+
+}
+
+/*.mock-size {
+
+	text-align: right;
+
+}*/
+
+/*.feature1-width {
+
+	width: 100%;
+	vertical-align: middle;
+
+}*/
+
+
+/*.feature1-right {
+
+	width: 30%;
+	margin-right: 10%;
+	margin-top: 125px;
+	vertical-align: middle;
+
+}*/
+
+/*.feature1-left {
+
+	text-align: right;
+
+}*/
+
+
 
 
 
