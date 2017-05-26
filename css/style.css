@@ -133,36 +133,31 @@ h1, p {
 
 }
 
-/*.mock-size {
+.feature1-right {
 
-	text-align: right;
+	margin-top: 280px;
 
-}*/
+}
 
-/*.feature1-width {
+.featureslist {
 
-	width: 100%;
-	vertical-align: middle;
+	text-align: center;
+	width: 333px;
 
-}*/
+}
 
+.featureslist-title {
 
-/*.feature1-right {
+	font-size: 30px;
 
-	width: 30%;
-	margin-right: 10%;
-	margin-top: 125px;
-	vertical-align: middle;
+}
 
-}*/
+.featureslist-text {
 
-/*.feature1-left {
+	font-size: 22px;
+	line-height: 35px;
 
-	text-align: right;
-
-}*/
-
-
+}
 
 
 
