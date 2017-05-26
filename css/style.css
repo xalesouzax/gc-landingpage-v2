@@ -79,7 +79,9 @@ h1, p {
 
 	margin-top: -20px;
 	margin-left: 60px;
+	margin-bottom: 0;
 	padding-bottom: 50px;
+
 
 }
 
@@ -92,3 +94,16 @@ h1, p {
     background: linear-gradient(to bottom right, #43cea2, #185a9d); /* Standard syntax (must be last) */
 
 }
+
+.imagewindow {
+
+	width: 100%;
+	height: auto;
+
+}
+
+
+
+
+
+
