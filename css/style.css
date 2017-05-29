@@ -24,6 +24,12 @@ h1, p {
 	
 }
 
+a {
+
+	font-family: sfmonoregular;
+
+}
+
 /*.logo {
 
 	display: block;
@@ -40,6 +46,12 @@ h1, p {
 	margin-left: 60px;
 
 }*/
+
+.intro-space {
+
+	padding-bottom: 60px;
+
+}
 
 .intro-logo {
 
@@ -71,17 +83,9 @@ h1, p {
 .intro-cta {
 
 	color: white;
-	text-decoration: underline;
-
 	font-size: 25px;
-	font-weight: normal;
-	line-height: 80px;
-
-	margin-top: -20px;
 	margin-left: 60px;
-	margin-bottom: 0;
-	padding-bottom: 50px;
-
+	line-height: 80px;
 
 }
 
@@ -153,6 +157,7 @@ h1, p {
 
 	text-align: center;
 	width: 420px;
+	margin-bottom: 100px;
 
 }
 
@@ -180,7 +185,7 @@ h1, p {
 
 	color: white;
 	text-transform: uppercase;
-	font-size: 85px;
+	font-size: 87px;
 	width: 650px;
 	margin-left: 60px;
 	margin-top: 60px;
@@ -211,7 +216,7 @@ h1, p {
 	font-family: sfmonoregular;
 	font-size: 35px;
 	width: 400px;
-	margin: 30px 30px;
+	margin: 30px 24px;
 	border-style: none;
 
 }
@@ -221,14 +226,23 @@ h1, p {
 	font-family: sfmonoregular;
 	color: white;
 	font-size: 35px;
-	border-style: none;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 10px 18px;
 	background-color: #2e929f
 
 }
 
-.footer-column-align {
+.footer-left {
 
-	width: 50%;
+	width: 800px;
+	font-size: 0;
+
+}
+
+.footer-right {
+
+	width: 1053px;
 	font-size: 0;
 
 }
@@ -238,7 +252,8 @@ h1, p {
 	height: auto;
 	width: 100%;
 
-	margin-top: 56px;
+	right: 0;
+	margin-top: 70px;
 
 }
 
