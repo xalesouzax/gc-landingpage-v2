@@ -104,6 +104,8 @@ h1, p {
 
 .feature1 {
 
+	max-width: 80%;
+	margin: auto;
 	margin-top: -142px;
 
 }
@@ -115,6 +117,14 @@ h1, p {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-around;
+
+}
+
+.features-width {
+
+	width: 90%;
+	margin: auto;
+	margin-top: 100px;
 
 }
 
@@ -142,7 +152,7 @@ h1, p {
 .featureslist {
 
 	text-align: center;
-	width: 333px;
+	width: 420px;
 
 }
 
@@ -158,6 +168,83 @@ h1, p {
 	line-height: 35px;
 
 }
+
+.footer-img-align {
+
+	width: 90%;
+	right: 0;
+
+}
+
+.footer-title {
+
+	color: white;
+	text-transform: uppercase;
+	font-size: 85px;
+	width: 650px;
+	margin-left: 60px;
+
+}
+
+.footer-subtitle {
+
+	color: white;
+	font-size: 35px;
+	width: 650px;
+	margin-left: 60px;
+
+}
+
+.footer-form-out {
+
+	background-color: white;
+	border-radius: 10px;
+	margin-left: 60px;
+	width: 590px;
+
+}
+
+.footer-form-input {
+
+	font-family: sfmonoregular;
+	font-size: 35px;
+	width: 400px;
+	margin: 30px 30px;
+	border-style: none;
+
+}
+
+.footer-send {
+
+	font-family: sfmonoregular;
+	color: white;
+	font-size: 35px;
+	border-style: none;
+	background-color: #2e929f
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
