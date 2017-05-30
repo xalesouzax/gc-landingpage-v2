@@ -59,11 +59,11 @@ a {
 
 }
 
-.intro-title-highlight {
+/*.intro-title-highlight {
 
 	font-weight: bold;
 
-} 
+}*/ 
 
 .intro-cta {
 
@@ -127,7 +127,7 @@ a {
 
 .feature1-title {
 
-	font-size: 60px;
+	font-size: 55px;
 	width: 480px;
 
 }
@@ -206,7 +206,7 @@ a {
 
 	background-color: white;
 	border-radius: 10px;
-	width: 590px;
+	width: 576px;
 	margin-left: 60px;
 	margin-bottom: 60px;
 	
@@ -215,7 +215,7 @@ a {
 .footer-form-input {
 
 	font-family: sfmonoregular;
-	font-size: 35px;
+	font-size: 30px;
 	width: 400px;
 	margin: 30px 24px;
 	border-style: none;
@@ -226,7 +226,7 @@ a {
 
 	font-family: sfmonoregular;
 	color: white;
-	font-size: 35px;
+	font-size: 30px;
 	text-decoration: none;
 	border-radius: 5px;
 	padding: 10px 18px;
@@ -260,9 +260,112 @@ a {
 
 /* END FOOTER ==================================================== */
 
+/* MOBILE SCREEN SIZES =========================================== */
+
+@media screen and (max-width: 865px) {
+
+.intro-space {
+
+	padding-bottom: 60px;
+
+}
+
+.intro-logo {
+
+	width: 60px;
+	margin-top: 30px;
+	margin-left: 30px;
+
+}
+
+.intro-title {
+	
+	font-size: 25px;
+	line-height: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+
+}
+
+.intro-cta {
+
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 30px;
+
+}
+
+.imagewindow {
+
+	display: none;
+
+}
+
+.feature1 {
+
+	display: block;
+
+}
+
+.mocksize {
+
+	width: 250px;
+
+}
+
+.feature1 {
+
+	max-width: 80%;
+	margin: auto;
+	margin-top: -41px;
+	text-align: center;
+
+}
+
+.feature1-right {
+
+	margin-top: 50px;
+	
+}
+
+.feature1-title {
+
+	font-size: 25px;
+	width: auto;
+
+}
+
+.feature1-text { 
+
+	font-size: 15px;
+	line-height: 25px;
+	width: auto;
+
+}
 
 
 
+
+
+
+
+
+
+
+
+.featureslist {
+
+	display: none;
+
+}
+
+#footer {
+
+	display: none;
+
+}
+
+}
 
 
 
