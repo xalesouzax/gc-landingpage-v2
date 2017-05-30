@@ -175,13 +175,6 @@ a {
 
 /* START FOOTER ================================================== */
 
-.footer-img-align {
-
-	width: 90%;
-	right: 0;
-
-}
-
 .footer-title {
 
 	color: white;
@@ -380,16 +373,61 @@ a {
 
 }
 
+.footer-title {
 
+	font-size: 50px;
+	width: auto;
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 3%;
+	margin-right: 3%;
 
+}
 
+.footer-subtitle {
 
+	text-align: center;
+	font-size: 25px;
+	width: auto;
+	margin-left: 0;
 
+}
 
+.footer-form-out {
 
+	width: auto;
+	margin: auto;
+	border-radius: 5px;
+	margin-bottom: 60px;
+	margin-left: 3%;
+	margin-right: 3%;
+	
+}
 
+.footer-form-input {
 
-#footer {
+	font-size: 15px;
+	text-align: center;
+	width: auto;
+	margin: 25px 12px;
+
+}
+
+.footer-send {
+
+	font-size: 15px;
+	padding: 10px 18px;
+
+}
+
+.footer-left {
+
+	width: auto;
+	font-size: 0;
+
+}
+
+.footer-right, .footer-img {
 
 	display: none;
 
