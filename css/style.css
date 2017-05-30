@@ -324,7 +324,7 @@ a {
 
 .feature1-right {
 
-	margin-top: 50px;
+	margin-top: 25px;
 	
 }
 
@@ -343,21 +343,51 @@ a {
 
 }
 
+.features-width {
 
+	display: block;
+	margin-top: 100px;
 
-
-
-
-
-
-
-
+}
 
 .featureslist {
 
-	display: none;
+	width: auto;
+	margin-bottom: 100px;
 
 }
+
+.featurelist-img {
+
+	width: 200px;
+
+}
+
+.featureslist-title {
+
+	font-size: 25px;
+	margin-left: 12%;
+	margin-right: 12%;
+
+}
+
+.featureslist-text {
+
+	font-size: 15px;
+	line-height: 25px;
+	margin-left: 3%;
+	margin-right: 3%;
+
+}
+
+
+
+
+
+
+
+
+
 
 #footer {
 
