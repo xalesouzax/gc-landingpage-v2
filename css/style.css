@@ -30,22 +30,7 @@ a {
 
 }
 
-/*.logo {
-
-	display: block;
-
-	height: 90px;
-	width: 90px;
-
-	border: 22px;
-
-	border-style: solid;
-	border-color: white;
-	border-radius: 50%;
-
-	margin-left: 60px;
-
-}*/
+/* START INTRO =================================================== */
 
 .intro-space {
 
@@ -83,7 +68,7 @@ a {
 .intro-cta {
 
 	color: white;
-	font-size: 25px;
+	font-size: 30px;
 	margin-left: 60px;
 	line-height: 80px;
 
@@ -99,6 +84,10 @@ a {
 
 }
 
+/* FINISH INTRO ================================================== */
+
+/* START IMAGE WINDOW ============================================ */
+
 .imagewindow {
 
 	width: 100%;
@@ -106,13 +95,7 @@ a {
 
 }
 
-.feature1 {
-
-	max-width: 80%;
-	margin: auto;
-	margin-top: -142px;
-
-}
+/* END IMAGE WINDOW ============================================== */
 
 .flexbox {
 
@@ -129,6 +112,16 @@ a {
 	width: 90%;
 	margin: auto;
 	margin-top: 100px;
+
+}
+
+/* START (MAIN) FEATURE ========================================== */
+
+.feature1 {
+
+	max-width: 80%;
+	margin: auto;
+	margin-top: -142px;
 
 }
 
@@ -153,6 +146,10 @@ a {
 
 }
 
+/* END (MAIN) FEATURE ============================================ */
+
+/* START FEATURE LIST ============================================ */
+
 .featureslist {
 
 	text-align: center;
@@ -173,6 +170,10 @@ a {
 	line-height: 35px;
 
 }
+
+/* END FEATURE LIST ============================================== */
+
+/* START FOOTER ================================================== */
 
 .footer-img-align {
 
@@ -195,7 +196,7 @@ a {
 .footer-subtitle {
 
 	color: white;
-	font-size: 35px;
+	font-size: 30px;
 	width: 650px;
 	margin-left: 60px;
 
@@ -257,9 +258,7 @@ a {
 
 }
 
-
-
-
+/* END FOOTER ==================================================== */
 
 
 
