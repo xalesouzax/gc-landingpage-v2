@@ -605,7 +605,7 @@ a {
 
 .feature1-right {
 
-	margin-top: 25px;
+	margin-top: 5px;
 	margin-left: 0;
 	
 }
@@ -614,6 +614,7 @@ a {
 
 	font-size: 25px;
 	width: auto;
+	margin-top: 5px;
 
 }
 
